@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/zen93/repairnator-test-repository.svg?branch=main)](https://travis-ci.com/zen93/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.com/zen93/repairnator-test-repository.svg?branch=main)](https://travis-ci.com/zen93/repairnator-test-repository)
 
 # Repairnator Test Cases
 
